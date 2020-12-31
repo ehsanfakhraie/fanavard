@@ -1,6 +1,6 @@
 """
 - Fanavard Contest q1
-- Gozar Team
+- Gozar Team Id: 726312
 - Ehsan Fakhraie, Amir Farahani, Ahamd Forooghi, Hossein Samadi
 """
 
